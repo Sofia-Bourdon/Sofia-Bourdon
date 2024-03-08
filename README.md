@@ -3,11 +3,11 @@
 
 ![](https://github.com/Sofia-Bourdon/Sofia-Bourdon/blob/main/ba9710ca2c65ef7bc4318c9d857d9f1f.gif)
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sofia-bourdon&label=Profile%20views&color=0e75b6&style=flat" alt="sofia-bourdon" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sofia-bourdon&label=Profile%20views&color=0e75b6&style=flat" alt="sofia-bourdon" /></p>
 
-- 🔭 I’m currently working on [Botanica Essentials](https://github.com/Sofia-Bourdon/Botanica-Essentials)
+- 🔭 I’m currently building my **portolio website**.
 
-- 🛍️ I’m currently learning **How to build an e-commerce**
+- 🛍️ I’m currently learning **React**
 
 - 📫 How to reach me **mabourdonsofia@gmail.com**
 
